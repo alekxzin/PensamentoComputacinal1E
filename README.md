@@ -1,6 +1,6 @@
 ### PensamentoComputacinal1E
 repositorio criado para postagem de trabalhos da diciplina de pensamento computacional
-**gleidson n6,alexander 1**
+**gleidson 6,alexander 1**
 
 ## _**colorir**_
 
