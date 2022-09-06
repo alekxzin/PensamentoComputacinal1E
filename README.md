@@ -1,6 +1,6 @@
 ### PensamentoComputacinal1E
 repositorio criado para postagem de trabalhos da diciplina de pensamento computacional
-**gleidson 6,alexander 1**
+**gleidson n6,alexander 1**
 
 ## _**colorir**_
 
@@ -27,3 +27,7 @@ Tem o que dizem, quando estão contigo?”E eu vos direi: “Amai para entendê-
 Pois só quem ama pode ter ouvido
 
 Capaz de ouvir e de entender estrelas.
+
+![texto](https://img.freepik.com/fotos-premium/via-lactea-com-estrelas-e-poeira-espacial-no-universo_33900-3.jpg?size=626&ext=jpg)
+
+@LiziBugalski
